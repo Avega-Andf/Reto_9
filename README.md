@@ -169,7 +169,7 @@ if __name__ == "__main__":
     D = float(input("ingrese la cantidad de dias a evaluar"))
     # Se asignan los valores a usar a la funcion
     T = calcularcontagiados(C,D)
-    print("La cantidad de contagiados en Nuncala
+    print("La cantidad de contagiados en Nuncalandia")
 ```
 </p></details></br>
 
